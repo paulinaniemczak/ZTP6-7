@@ -1,2 +1,2 @@
 "test do fetchowania"
-"kot"
+"pies"
